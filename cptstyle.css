@@ -1,0 +1,15 @@
+body.a{
+  background-image: url("hardware.jpg");
+}
+body.b{
+  background-image: url("software.jpg")
+}
+body.c{
+  background-image: url("html.png")
+}
+body.d{
+  background-image: url("javascript.png")
+}
+body.e{
+  background-image: url("balloons.jpg")
+}
